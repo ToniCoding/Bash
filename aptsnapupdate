@@ -51,3 +51,7 @@ do
 		;;
 	esac # End case.
 done # End loop.
+
+# Script by ToniCoding.
+# Tested on Ubuntu 22.04.
+# Working: 100%
